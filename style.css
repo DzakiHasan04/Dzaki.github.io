@@ -4,32 +4,31 @@ h1 {text-align: center;
     font-size: 300%;}
 
 p1{font-family: sans-serif;
-   font-size: 150%;
+   font-size: 100%;
    color: midnightblue;}
 
-table, td {font-size: medium;
+table, td {font-size: 100%;
     font-family: sans-serif;
     color:rgb(130, 59, 0) ;}
-table {width: 0%}
 
-p2{font-family: sans-serif;
-   font-size: 150%;
-   color: midnightblue;}
-
-p3,p4{font-family: sans-serif;
-  font-size: 100%;
+h{font-family: sans-serif;
+  font-size: 120%;
+  color: rgb(171, 200, 207);
+ text-align: justify;} 
+  
+p,p3,p4,p5{font-family: sans-serif;
+  font-size: 80%;
   color: ivory;
   text-align: justify;
-  margin-left: 20px;
-  margin-right: 10px;
-  text-justify: inter-word;}
+  margin-left: 50px;
+  margin-right: 40px;}
 
 .divProfile{
     border:50%;
     margin-top: 15px;
     margin-bottom: 40px;
-    margin-right: 30px;
-    margin-left: 30px;
+    margin-right: 0px;
+    margin-left: 0px;
     background-color: rgb(235, 203, 20);
     text-align:left;}
 
@@ -57,22 +56,23 @@ ul {
     font-family: arial;}
   
 .divP3{
-    border:50%;
-    margin-top: 15px;
-    margin-bottom: 0px;
-    margin-right: 30px;
-    margin-left: 30px;
-    background-color: navy;
-    text-align:justify;}
-
-.divP4{
-    border:50%;
     margin-top: 15px;
     margin-bottom: 50px;
-    margin-right: 30px;
-    margin-left: 30px;
+    margin-right: 0px;
+    margin-left: 0px;
     background-color: navy;
-    text-align:justify;}    
+    text-align: center;} 
+
+.footer{background-color:#471aeb;
+  padding: 10px;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 110%;
+  color: ivory; }
+
+
+
+
     
     
 

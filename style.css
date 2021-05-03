@@ -12,6 +12,9 @@ ul {
     width:100%;
     border-bottom-right-radius:1em;
     border-bottom-left-radius:1em;
+    left:0;
+    right:0;
+    z-index: 9999;
 } 
 li {
     float: left;
@@ -41,7 +44,7 @@ li a:hover {
     padding-top:20px;
 }
 .isi {margin-top: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 40px;
     margin-right: 10px;
     margin-left: 10px;
     background-color: rgb(136, 224, 240);
@@ -49,6 +52,7 @@ li a:hover {
     padding-bottom:0;
     display: block;
     border-radius:2em;
+    position: static;
 }
 img {width:125px; height:150px;
     padding-left: 20px;
@@ -97,9 +101,35 @@ table, td {font-size: 100%;
 }
 .footer{background-color:#471aeb;
     padding: 10px;
-    margin: -10px -10ps;
+    left: 0;
+    right: 0;
+    top:0;
+    bottom:0;
     text-align: center;
     font-family: sans-serif;
     font-size: 100%;
     color: ivory;
+}
+.P{font-size: 100%;
+    font-family: verdana;
+    text-align:justify;
+    color: navy;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.P h2{font-size: 150%;
+    font-family: verdana;
+    text-align:center;
+    color: navy;
+    padding-top:0;
+}
+.isih2{margin-top: 0px;
+    margin-bottom: 12px;
+    margin-right: 0;
+    margin-left: 0;
+    background-color: rgb(193, 235, 165);
+    text-align: left;
+    padding-bottom:4px;
+    padding-top:0;
+    display: block;
 }

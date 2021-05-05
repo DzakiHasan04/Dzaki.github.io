@@ -17,7 +17,7 @@ ul {
     z-index: 9999;
 } 
 li {
-    float: left;
+    float: justify;
 }
 li a {
     display: block;
@@ -67,9 +67,13 @@ table, td {font-size: 100%;
     font-family: sans-serif;
     color:rgb(31, 12, 112);
     padding: 10px;
-    margin-bottom: 2px;
+    margin-bottom: 15px;
+    margin-top: 15px;
     margin-left: auto;
     margin-right: auto;
+    background-color: #dddddd;
+    border: 2px solid #c4bfbf;
+    border-collapse: collapse;
 }
 .isitable{margin-top: 15px;
     margin-bottom: 40px;
@@ -77,7 +81,7 @@ table, td {font-size: 100%;
     margin-left: auto;
     background-color: rgb(150, 224, 200);
     text-align: left;
-    padding:10px 10px 10px 10px;
+    padding:10px;
 }
 .isiprofile {margin-top: 0px;
     margin-bottom: 15px;

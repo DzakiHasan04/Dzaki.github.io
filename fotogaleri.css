@@ -1,0 +1,58 @@
+/* Header */
+.jumbotron-fluid {
+    background: rgba(0,0,0,0.7)url('BackgroundGallery.jpg');
+    background-size:cover; 
+    background-blend-mode: darken;
+    background-position: 0 -20px;
+    background-attachment: fixed;
+}
+.navbar {
+    background: transparent;
+}
+.judul {
+    padding-left: auto;
+    padding-right: auto;
+    padding-bottom: 135px;
+}
+.judul h1 {
+    color: rgb(236, 235, 208);
+    font-size: 52px;
+}
+.judul p {
+    color: rgb(218, 216, 185);
+    font-size:large;
+}
+.btn {
+    background-color: rgb(248, 247, 233);
+    color: black;
+}
+
+/* Gallery */
+.Gallery {
+    background-color: #eee;
+    padding-bottom: 150px;
+    padding-top: 130px;
+}
+.Gallery h1 {
+    color: rgb(51, 46, 42);
+    font-size: 40px;
+}
+hr {
+    width: 60px;
+    border-top: 4px solid#999;
+}
+.img-thumbnail {
+    background-color:rgb(167, 167, 167);
+}
+
+/* End */
+.container-fluid {
+    background-color: rgb(44, 44, 44);
+    padding: 85px 50px 17px 50px;
+}
+.material-icons {
+    color: #999;
+}
+.End p {
+    padding-top: 130px;
+}

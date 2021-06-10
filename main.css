@@ -1,0 +1,115 @@
+/* Header */
+.Header {
+    background-color: rgb(51, 51, 134);
+    padding-bottom: 75px;
+}
+.Header h1 {
+    color: rgb(234, 236, 236);
+    font-size: 57px;
+}
+.Header p {
+    color: rgb(234, 236, 236);
+    font-size:large;
+    padding-top: 10px;
+}
+.Header1 {
+    color: rgb(236, 235, 208);
+}
+.Header-btn {
+    background-color: rgb(234, 236, 236);
+    color: rgb(36, 34, 34);
+}
+.Header-col-1 {
+    padding: 60px 20px 100px 60px ;
+}
+.img-thumbnail {
+    width: 70%;
+    border-radius: 12%;
+    border: cyan;
+}
+
+/* Welcome */
+.Welcome {
+    background-color: rgb(51, 60, 160);
+}
+.Welcome1 {
+    padding: 110px 30px 110px 30px ;
+}
+.Welcome h1 {
+    color: rgb(255, 255, 255); 
+    text-align: center; 
+    font-family: Alfa Slab One;
+}
+.Welcome p {
+    color: rgb(234, 236, 236) ;
+}
+.Welcome hr {
+    width: 60px;
+    border-top: 4px solid white;
+}
+
+/* Biodata */
+.AboutMe {
+    padding-top: 110px;
+    padding-bottom: 110px;
+    background-color: lightskyblue;
+}
+.AboutMe h1 {
+    color: rgb(68, 68, 68);
+}
+.AboutMe hr {
+    width: 60px;
+    border-top: 4px solid rgb(32, 32, 32);
+    padding-bottom: 20px;
+}
+
+/* Fotogaleri */
+.MyGallery {
+    background-color: rgb(42, 121, 211);
+    padding-top: 100px;
+    padding-bottom: 85px;
+}
+.MyGallery h1 {
+    text-shadow: 1px 1px 10px rgba(0,0,0,0.8);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: Alfa Slab One;
+}
+.MyGallery hr {
+    width: 60px;
+    border-top: 4px solid rgb(216, 206, 206);
+}
+
+/* Opinion */
+.MyOpinion {
+    background-color: rgb(40, 95, 177);
+    padding-top:110px; 
+    padding-bottom:105px;
+}
+.MyOpinion hr {
+    width: 100px;
+    border-top: 4px solid rgb(219, 219, 219);
+    padding-bottom: 20px;
+}
+.MyOpinion h1 {
+    color:rgb(240, 238, 238);
+}
+.MyOpinion p {
+    color: lightyellow;
+}
+
+/* ContactMe */
+.ContactMe {
+    background-color: rgb(44, 44, 44);
+    padding: 85px 50px 17px 50px;
+}
+.ContactMe hr {
+    width: 60px;
+    border-top: 4px solid whitesmoke;
+}
+.material-icons {
+    color: #999;
+}
+.ContactMe p {
+    padding-top: 130px;
+}
